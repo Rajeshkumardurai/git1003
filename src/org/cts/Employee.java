@@ -18,6 +18,10 @@ float salary = 15000.12f;
 		System.out.println(phn);
 		System.out.println(city);
 		
+		
+		System.out.println("rajesh");
+		System.out.println("kumar");
+		
 
 }
 	public static void main(String[] args) {
